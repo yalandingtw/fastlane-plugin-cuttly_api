@@ -1,0 +1,6 @@
+lane :test do
+  cuttly_api(
+      api_key: 'b8f00d515e6325f975d5ccfc6479d23c04528',
+      shorten_url: 'https://drive.google.com/open?id=1z4slgTXXKSrOHGqF2qXXVzoraVqqyTUT'
+  )
+end
