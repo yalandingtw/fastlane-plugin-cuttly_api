@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'yalandingtw@gmail.com'
 
   spec.summary       = 'fastlane plugin for cuttly.'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-cuttly_api"
+  spec.homepage      = "https://github.com/yalandingtw/fastlane-plugin-cuttly_api"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
