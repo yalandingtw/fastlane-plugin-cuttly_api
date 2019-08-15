@@ -11,4 +11,6 @@ fastlane/report.xml
 coverage
 test-results
 /.circleci
-/.idea
+/.idea/
+/.idea/vcs.xml
+
